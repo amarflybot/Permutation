@@ -1,0 +1,5 @@
+---
+applications:
+  - name: permutation
+    buildpack: java_buildpack
+    path: target/permutation-0.0.1-SNAPSHOT.jar
